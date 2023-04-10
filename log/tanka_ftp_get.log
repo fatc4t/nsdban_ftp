@@ -1,0 +1,100 @@
+------------------------------------ 
+ 20221226_161147蜃ｦ逅・幕蟋・        
+ftp> open 192.168.1.172 
+192.168.1.172 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.1.172:(none)):  
+331 Password required 
+230 User logged in. 
+ftp> cd /POS_SEND 
+250 CWD command successful. 
+ftp> get TNKINF.txt 
+200 PORT command successful. 
+125 Data connection already open; Transfer starting. 
+226 Transfer complete. 
+ftp> bye 
+221 Goodbye. 
+        1 個のファイルをコピーしました。
+20221226_161147蜃ｦ逅・ｵゆｺ・
+------------------------------------ 
+------------------------------------ 
+ 20230227_165558蜃ｦ逅・幕蟋・        
+ftp> open 192.168.100.15 
+192.168.100.15 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.100.15:(none)):  
+331 Password required for postftp. 
+530 User cannot log in. 
+ログインできませんでした。 
+ftp> cd /POS_SEND 
+530 Please login with USER and PASS. 
+ftp> get tanka.103 
+530 Please login with USER and PASS. 
+530 Please login with USER and PASS. 
+ftp> bye 
+221 Goodbye. 
+指定されたファイルが見つかりません。
+20230227_165601蜃ｦ逅・ｵゆｺ・
+------------------------------------ 
+------------------------------------ 
+ 20230227_165835蜃ｦ逅・幕蟋・        
+ftp> open 192.168.100.15 
+192.168.100.15 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.100.15:(none)):  
+331 Password required for postftp. 
+530 User cannot log in. 
+ログインできませんでした。 
+ftp> cd /POS_SEND 
+530 Please login with USER and PASS. 
+ftp> get tanka.103 
+530 Please login with USER and PASS. 
+530 Please login with USER and PASS. 
+ftp> bye 
+221 Goodbye. 
+指定されたファイルが見つかりません。
+20230227_165839蜃ｦ逅・ｵゆｺ・
+------------------------------------ 
+------------------------------------ 
+ 20230227_170022蜃ｦ逅・幕蟋・        
+ftp> open 192.168.100.15 
+192.168.100.15 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.100.15:(none)):  
+331 Password required for postftp. 
+530 User cannot log in. 
+ログインできませんでした。 
+ftp> cd /POS_SEND 
+530 Please login with USER and PASS. 
+ftp> get tanka.103 
+530 Please login with USER and PASS. 
+530 Please login with USER and PASS. 
+ftp> bye 
+221 Goodbye. 
+指定されたファイルが見つかりません。
+20230227_170120蜃ｦ逅・ｵゆｺ・
+------------------------------------ 
+------------------------------------ 
+ 20230227_171106蜃ｦ逅・幕蟋・        
+ftp> open 192.168.100.15 
+192.168.100.15 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.100.15:(none)):  
+331 Password required for postftp. 
+530 User cannot log in. 
+ログインできませんでした。 
+ftp> cd /POS_SEND 
+530 Please login with USER and PASS. 
+ftp> get tanka.103 
+530 Please login with USER and PASS. 
+530 Please login with USER and PASS. 
+ftp> bye 
+221 Goodbye. 
+指定されたファイルが見つかりません。
+20230227_171109蜃ｦ逅・ｵゆｺ・
+------------------------------------ 

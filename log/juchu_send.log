@@ -1,0 +1,101 @@
+------------------------------------ 
+ 20221223_163618蜃ｦ逅・幕蟋・        
+ftp> open 192.168.1.172 
+192.168.1.172 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.1.172:(none)):  
+331 Password required 
+230 User logged in. 
+ftp> cd ./POS_RECV 
+250 CWD command successful. 
+ftp> put C:\Users\kanri\Desktop\nsdban_ftp\send\JUCHU.txt 
+200 PORT command successful. 
+125 Data connection already open; Transfer starting. 
+226 Transfer complete. 
+ftp: 40830 バイトが送信されました 0.01秒 4083.00KB/秒。 
+ftp> bye 
+221 Goodbye. 
+20221223_163622蜃ｦ逅・ｵゆｺ・         
+------------------------------------ 
+------------------------------------ 
+ 20221223_163708蜃ｦ逅・幕蟋・        
+ftp> open 192.168.1.172 
+192.168.1.172 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.1.172:(none)):  
+331 Password required 
+230 User logged in. 
+ftp> cd ./POS_RECV 
+250 CWD command successful. 
+ftp> put C:\Users\kanri\Desktop\nsdban_ftp\send\JUCHU.txt 
+200 PORT command successful. 
+125 Data connection already open; Transfer starting. 
+226 Transfer complete. 
+ftp: 40830 バイトが送信されました 0.01秒 3711.82KB/秒。 
+ftp> bye 
+221 Goodbye. 
+20221223_163711蜃ｦ逅・ｵゆｺ・         
+------------------------------------ 
+------------------------------------ 
+ 20221223_164925蜃ｦ逅・幕蟋・        
+ftp> open 192.168.1.172 
+192.168.1.172 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.1.172:(none)):  
+331 Password required 
+230 User logged in. 
+ftp> cd ./POS_RECV 
+250 CWD command successful. 
+ftp> put C:\Users\kanri\Desktop\nsdban_ftp\send\JUCHU.txt 
+200 PORT command successful. 
+125 Data connection already open; Transfer starting. 
+226 Transfer complete. 
+ftp: 40830 バイトが送信されました 0.01秒 2722.00KB/秒。 
+ftp> bye 
+221 Goodbye. 
+20221223_164928蜃ｦ逅・ｵゆｺ・         
+------------------------------------ 
+------------------------------------ 
+ 20221223_165417蜃ｦ逅・幕蟋・        
+ftp> open 192.168.1.172 
+192.168.1.172 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.1.172:(none)):  
+331 Password required 
+230 User logged in. 
+ftp> cd ./POS_RECV 
+250 CWD command successful. 
+ftp> put C:\Users\kanri\Desktop\nsdban_ftp\send\JUCHU.txt 
+200 PORT command successful. 
+125 Data connection already open; Transfer starting. 
+226 Transfer complete. 
+ftp: 40830 バイトが送信されました 0.01秒 3140.77KB/秒。 
+ftp> bye 
+221 Goodbye. 
+20221223_165417蜃ｦ逅・ｵゆｺ・         
+------------------------------------ 
+------------------------------------ 
+ 20230227_160858蜃ｦ逅・幕蟋・        
+------------------------------------ 
+ 20230227_164339蜃ｦ逅・幕蟋・        
+ftp> open 192.168.100.15 
+192.168.100.15 に接続しました。 
+220 Microsoft FTP Service 
+200 OPTS UTF8 command successful - UTF8 encoding now ON. 
+ユーザー (192.168.100.15:(none)):  
+331 Password required for postftp. 
+530 User cannot log in. 
+ログインできませんでした。 
+ftp> cd /POS_RECV 
+530 Please login with USER and PASS. 
+ftp> put "C:\Users\81803\デスクトップ\nsdban_ftp\send\JUCHU.102" 
+530 Please login with USER and PASS. 
+530 Please login with USER and PASS. 
+ftp> bye 
+221 Goodbye. 
+20230227_164342蜃ｦ逅・ｵゆｺ・         
+------------------------------------ 

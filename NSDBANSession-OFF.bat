@@ -1,0 +1,2 @@
+rasdial NSDBAN /disconnect
+exit
